@@ -11,7 +11,6 @@ public class SignUp {
         //4. Contraseña
 
         //Añade una nueva línea antes de mostrar la siguiente pregunta.
-
         System.out.println("¿What´s your name?");
         String name = form.nextLine();
         System.out.println();
